@@ -1,5 +1,8 @@
 _repo: The-History-of-Mary-I-Queen-of-England-as-found-in-the-public-records-despatches-of-ambassado__56875
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56875-h/images/cover.jpg
 creator:
   author:
     agent_name: Stone, J. M. (Jean Mary)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '1450'
     url: http://www.gutenberg.org/2009/agents/1450
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56875#The-History-of-Mary-I-Queen-of-England-as-found-in-the-public-records-despatches-of-ambassado_
 gutenberg_issued: '2018-03-29'
 gutenberg_type: Text
 identifiers:
